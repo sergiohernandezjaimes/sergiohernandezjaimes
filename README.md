@@ -1,25 +1,42 @@
-# Hi, I'm Sergio 👋
+# 👋 Hi, I'm Sergio
 
-Systems and validation engineer with 5+ years of experience in embedded systems, requirement management, and quality assurance across the automotive industry. I've contributed to IVI platforms at Visteon, BMS validation at Caterpillar, and QA automation at John Deere.
+A passionate systems and validation engineer with 5+ years of experience in embedded systems, QA automation, and diagnostics across the automotive industry. I've contributed to IVI platforms at Visteon, BMS validation at Caterpillar, and QA toolchains at John Deere - and I'm now building full-stack Python applications that blend embedded concepts with modern UI/UX.
 
-## 🚗 Areas I Work In
+---
 
-* Embedded & Control Systems (BMS, IVI, Diagnostics)
-* Requirements Engineering & Process Development
-* QA Automation & System Validation
-* CAN Bus Tools, Agile Dev, and Traceability
+## 🔧 What I Work On
 
-## 🛠️ Tools & Languages
+- 🧠 Embedded & Control Systems (BMS, IVI, Diagnostics)
+- ⚡ EV Tech, Requirement Engineering & System Validation
+- 🧪 QA Automation, Traceability, CAN Bus Tools
+- 🛠️ Tech Stack: Python, C++, Git, CANalyzer, Streamlit, Folium, Jira, Jenkins
 
-* C++, Python, CANalyzer, Git, Jira, Jenkins
-* DOORS, Polarion (familiar), Agile/V-Model
+---
 
-## 🔧 Current Projects
+## 🚀 Latest Projects
 
-* **Smart BMS Diagnostic Tool** (In progress): A simulated battery management system with automated fault logging and GPT-4-powered diagnostics.
-* \[Repo link coming soon]
+### 🔋 [Smart BMS Diagnostic Dashboard](https://smart-bms-diagnostic.streamlit.app/)
+A simulated battery management system with fault injection, real-time charts, status filtering, and CSV export - fully deployed via Streamlit Cloud.
+→ [View GitHub Repo](https://github.com/sergiohernandezjaimes/smart-bms-diagnostic)
+
+### ⚡ [EV Charging Session Monitor](https://ev-charging-monitor.streamlit.app/)
+Simulates EV charging logs for stations in San Francisco, including GPS maps, cost tracking, energy stats, filtering, and download tools.  
+→ [View GitHub Repo](https://github.com/sergiohernandezjaimes/ev-charging-monitor)
+
+---
+
+## 💼 Currently Exploring
+
+- Real-time data simulation & map filtering
+- Admin view modes and state management
+- Hugging Face Spaces & Docker deployment
+- API-driven EV perks, payments, and GPS alerts
+
+---
 
 ## 📫 Connect With Me
 
-* 📧 [sergiohernandezjaimes@gmail.com](mailto:sergiohernandezjaimes@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/sergio-hernandez-1948b0159)
+- 📧 sergiohernandezjaimes@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/sergio-hernandez-1948b0159)
+
+> "Unfinished business - building toward it every day."
